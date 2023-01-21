@@ -12,7 +12,7 @@ const Symbols = ({ option, setOption, optionID }) => {
       />
       <label
         htmlFor="symbol-option"
-        className="mt-2 inline-flex items-center justify-between w-full p-3 text-gray-500 bg-textgray border  border-textgray rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 peer-checked:bg-emerald-600 peer-checked:text-dark hover:text-gray-600 dark:peer-checked:text-gray-300 "
+        className="mt-2 inline-flex items-center justify-between w-full p-3 text-gray-500 bg-textgray border  border-textgray rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 peer-checked:bg-emerald-300 peer-checked:text-dark hover:text-gray-600 dark:peer-checked:text-gray-300 "
       >
         <div className="block">
           <span></span>

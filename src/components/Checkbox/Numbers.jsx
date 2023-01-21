@@ -11,7 +11,7 @@ const Numbers = ({option, setOption, optionID}) => {
     />
     <label
       htmlFor="number-option"
-      className="mb-2 inline-flex items-center justify-between w-full p-3 text-gray-500 bg-textgray border  border-textgray rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 peer-checked:bg-amber-600 peer-checked:text-dark hover:text-gray-600 dark:peer-checked:text-gray-300 "
+      className="mb-2 inline-flex items-center justify-between w-full p-3 text-gray-500 bg-textgray border  border-textgray rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-700 peer-checked:bg-amber-300 peer-checked:text-dark hover:text-gray-600 dark:peer-checked:text-gray-300 "
     >
       <div className="block">
         <span></span>
